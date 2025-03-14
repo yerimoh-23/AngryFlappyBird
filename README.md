@@ -7,30 +7,26 @@ The program is an implementation of the game "AngryFlappyBird" which is a modifi
 
 ### Bird
 - [x] A player uses the button to control the bird’s flight
-- [x] Collects gift and wreath
+- [x] Collects eggs to earn points
 
 ### Pipe
 - [x] Appears in pairs every fixed amount of time
 - [x] One life is taken from the bird when a collision with any pipe occurs
-<img src='http://g.recordit.co/QSiqtIHDQD.gif' title='Bird and Pipe' width='' alt='Bird and Pipe'/>
 
-### Gift (White egg in our code)
-- [x] Randomly on the upward facing pipes Could be collected either by the thief or the bird
-- [x] If a gift is collected, points will be added
-- [x] If a thief collects an gift, points were lost
-<img src='http://g.recordit.co/VHMMkjsbon.gif' title='Bird and Gift' width='' alt='Bird and Gift'/>
+### White Egg
+- [x] Randomly on the upward facing pipes. Could be collected either by the bird or the pig
+- [x] If an egg is collected, points will be added
+- [x] If a pig collects an egg, points are lost
 
-### Wreath (Golden egg in our code)
-- [x] Randomly on the upward facing pipes Could be collected either by the thief or the bird
-- [x] If a wreath is collected, **6 seconds of autopilot mode** will be triggered.
-- [x] If a thief collects an wreath, points were lost
-<img src='http://g.recordit.co/BANbHuHSeO.gif' title='Bird and Wreath' width='' alt='Bird and Wreath'/>
+### Golden Egg
+- [x] Randomly on the upward facing pipes Could be collected either by the bird or the pig
+- [x] If a golden egg is collected, **6 seconds of autopilot mode** will be triggered.
+- [x] If a pig collects an wreath, points are lost
 
-### Thief (pig in our code)
-- [x] Randomly from downward facing pipes
-- [x] Could collect gift or wreath right beneath it and lead to points lost if the gift or wreath is not collected by the bird first
-- [x] The game is over and score is reset to 0 if the bird collides with a thief
-<img src='http://g.recordit.co/DHNveOuKC9.gif' title='Bird and Thief' width='' alt='Bird and Thief'/>
+### Pig
+- [x] Randomly falls from downward facing pipes
+- [x] Could collect eggs right beneath it and lead to points lost if the egg is not collected by the bird first
+- [x] The game is over and score is reset to 0 if the bird collides with a pig
 
 ### Floor
 - [x] Scrolls through the scene consistently during the game until a collision happens.
@@ -38,7 +34,7 @@ The program is an implementation of the game "AngryFlappyBird" which is a modifi
 - [x] The bird stops moving immediately upon collision.
 
 ### Background
-- [x] Changes from night to day periodically.
+- [x] Changes from day to night periodically.
 
 ### UI panel
 - [x] A button that controls the start of the game and the wing flap of the bird.
@@ -60,7 +56,8 @@ Here's an example output you might see after you run the program:
 ![Alt text](https://github.com/yerimoh-23/AngryFlappyBird/blob/main/GIFfiles/collision.GIF)
 
 ## Game Installation
-**Step-by-step instructions** on how to install the program, including how to download and configure any required dependencies.
+### Step-by-step instructions
+on how to install the program, including how to download and configure any required dependencies.
 1. Download the game files: You'll first need to download the game files from our GitHub repository.
 2. Install the required programming language or game engine: Depending on the implementation of the game, you may need to install Java
 3. Install any required libraries or dependencies: Since the game relies on JavaFX, you'll need to install those as well.
