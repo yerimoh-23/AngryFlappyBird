@@ -49,10 +49,19 @@ The program is an implementation of the game "AngryFlappyBird" which is a modifi
 
 Here's an example output you might see after you run the program:
 
+#### Level selection and starting the game
 ![Alt text](https://github.com/yerimoh-23/AngryFlappyBird/blob/main/GIFfiles/levelSelect.GIF)
+
+#### How to control the bird's flight
 ![Alt text](https://github.com/yerimoh-23/AngryFlappyBird/blob/main/GIFfiles/birdFlying.GIF)
+
+#### Bird collecting a white egg
 ![Alt text](https://github.com/yerimoh-23/AngryFlappyBird/blob/main/GIFfiles/bonusEgg.GIF)
+
+#### Bird collecting a golden egg and the autopilot mode begins
 ![Alt text](https://github.com/yerimoh-23/AngryFlappyBird/blob/main/GIFfiles/autoEgg.GIF)
+
+#### Collision happens
 ![Alt text](https://github.com/yerimoh-23/AngryFlappyBird/blob/main/GIFfiles/collision.GIF)
 
 ## Game Installation
