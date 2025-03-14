@@ -1,5 +1,4 @@
 # AngryFlappyBird
-## COMSC-225 final project
 Team Flappy: Ayesha Binte Khalid, Manasvi Agarwal, Yerim Oh
 
 ## Overview
