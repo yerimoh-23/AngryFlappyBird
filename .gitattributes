@@ -1,7 +1,7 @@
-GIFfiles/** linguist-documentation=false
-GIFfiles/** linguist-vendored=false
-bin/** linguist-documentation=false
-bin/** linguist-vendored=false
+doc/** linguist-documentation=false
+doc/** linguist-vendored=false
+src/** linguist-documentation=false
+src/** linguist-vendored=false
 
 *.html linguist-detectable=true
 *.css linguist-detectable=true
