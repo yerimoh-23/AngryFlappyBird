@@ -1,4 +1,4 @@
-demo/** linguist-documentation=false
-demo/** linguist-vendored=false
-.html linguist-detectable=true
-.css linguist-detectable=true
+GIFfiles/** linguist-documentation=false
+GIFfiles/** linguist-vendored=false
+bin/** linguist-documentation=false
+bin/** linguist-vendored=false
