@@ -1,11 +1,7 @@
-doc/** linguist-documentation=false
-doc/** linguist-vendored=false
+doc/** linguist-documentation
+doc/** linguist-vendored
 src/** linguist-documentation=false
 src/** linguist-vendored=false
-
-doc/angryflappybird/** linguist-vendored
-doc/angryflappybird/** linguist-documentation
-
 
 *.html linguist-detectable=true
 *.css linguist-detectable=true
