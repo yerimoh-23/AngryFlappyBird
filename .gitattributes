@@ -3,6 +3,10 @@ doc/** linguist-vendored=false
 src/** linguist-documentation=false
 src/** linguist-vendored=false
 
+doc/angryflappybird/** linguist-vendored
+doc/angryflappybird/** linguist-documentation
+
+
 *.html linguist-detectable=true
 *.css linguist-detectable=true
 *.js linguist-detectable=true
